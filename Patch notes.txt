@@ -7,3 +7,4 @@
 - Create a hero heroes now have 100 attribute points to spend however you'd like
 - Any create a hero class can be used by any faction
 - Summoned creatures, hordes and terrain modifications no longer have a timer
+// TODO, make the ai able to summon sauron and galadriel
