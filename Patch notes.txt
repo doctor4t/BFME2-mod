@@ -1,0 +1,9 @@
+- Each faction starts with an infantry horde
+- When killed, Isengard mine porters drop the mine
+- Random patterns for goblin hordes
+- Sauron and Galadriel are recruitable heroes
+- Venom sacks are now purchasable on spiderlings and spider riders
+- Create a hero powers now have no level requirements (enjoy word of power at level 1!)
+- Create a hero heroes now have 100 attribute points to spend however you'd like
+- Any create a hero class can be used by any faction
+- Summoned creatures, hordes and terrain modifications no longer have a timer
