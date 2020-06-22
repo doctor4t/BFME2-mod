@@ -7,4 +7,6 @@
 - Create a hero heroes now have 100 attribute points to spend however you'd like
 - Any create a hero class can be used by any faction
 - Summoned creatures, hordes and terrain modifications no longer have a timer
-// TODO, make the ai able to summon sauron and galadriel
+// TODO, finish implementing call for allies research and summons for each camp
+// TODO, make wild lairs harder (super large wandering radius, more ennemies...)
+// IDEA: Swarm, transform Gollum into a timed entity --> on death, create a swarm pit (wild lair that can only be destroyed by ring heroes and keeps summoning swarm goblin hordes (better damaging goblins?))
