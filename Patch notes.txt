@@ -2,11 +2,12 @@
 - When killed, Isengard mine porters drop the mine
 - Random patterns for goblin hordes
 - Sauron and Galadriel are recruitable heroes
-- Venom sacks are now purchasable on spiderlings and spider riders
+- Venom sacks are once again purchasable on spiderlings and spider riders
 - Create a hero powers now have no level requirements (enjoy word of power at level 1!)
 - Create a hero heroes now have 100 attribute points to spend however you'd like
 - Any create a hero class can be used by any faction
 - Summoned creatures, hordes and terrain modifications no longer have a timer
+- Elven fortresses can once again purchase the blessed mist upgrade
 // TODO, finish implementing call for allies research and summons for each camp
 // TODO, make wild lairs harder (super large wandering radius, more ennemies...)
 // IDEA: Swarm, transform Gollum into a timed entity --> on death, create a swarm pit (wild lair that can only be destroyed by ring heroes and keeps summoning swarm goblin hordes (better damaging goblins?))
