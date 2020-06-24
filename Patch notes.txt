@@ -6,7 +6,7 @@
 - Create a hero powers now have no level requirements (enjoy word of power at level 1!)
 - Create a hero heroes now have 100 attribute points to spend however you'd like
 - Any create a hero class can be used by any faction
-- Summoned creatures, hordes and terrain modifications no longer have a timer
+- Summoned creatures, hordes and terrain modifications no longer have a timer and hordes are properly upgradable
 - Elven fortresses can once again purchase the blessed mist upgrade
 // TODO, finish implementing call for allies research and summons for each camp
 // TODO, make wild lairs harder (super large wandering radius, more ennemies...)
