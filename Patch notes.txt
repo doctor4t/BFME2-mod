@@ -10,6 +10,10 @@
 - Ally summoning powers have increased prices
 - Elven fortresses can once again purchase the blessed mist upgrade
 - Dain stubborn pride is now properly shown as a passive power
-// TODO, finish implementing call for allies research and summons for each camp
+- Sauron and Galadriel now cost 25000 resources
+- Galadriel now automatically heals when idle
+- Command points granted by statues, resource buildings, fortresses and captured buildings are now 4 times higher
+// TODO, add lang strings for call for allies
+// TODO, make walls more resistant
+// TODO, make units faster to produce (2x?)
 // TODO, make wild lairs harder (super large wandering radius, more ennemies...)
-// IDEA: Swarm, transform Gollum into a timed entity --> on death, create a swarm pit (wild lair that can only be destroyed by ring heroes and keeps summoning swarm goblin hordes (better damaging goblins?))
