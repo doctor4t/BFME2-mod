@@ -13,7 +13,9 @@
 - Sauron and Galadriel now cost 25000 resources
 - Galadriel now automatically heals when idle
 - Command points granted by statues, resource buildings, fortresses and captured buildings are now 4 times higher
+- Level 2 unit production buildings build units 50% faster
+- Level 3 unit production buildings build units 100% faster
 // TODO, add lang strings for call for allies
-// TODO, make walls more resistant
+// TODO, make walls more resistant?
 // TODO, make units faster to produce (2x?)
 // TODO, make wild lairs harder (super large wandering radius, more ennemies...)

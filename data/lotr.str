@@ -14515,37 +14515,37 @@ CONTROLBAR:ConstructGondorBarracks2Upgrade
 "&Upgrade Barracks to Level 2"
 END
 CONTROLBAR:ToolTipBuildGondorBarracksLevel2Upgrade
-"Level 2: +10% Faster Build Speed"
+"Level 2: +50% Faster Build Speed"
 END
 CONTROLBAR:ConstructGondorBarracksLevel3Upgrade
 "&Upgrade Barracks to Level 3"
 END
 CONTROLBAR:ToolTipBuildGondorBarracksLevel3Upgrade
-"Level 3: +25% Faster Build Speed"
+"Level 3: +100% Faster Build Speed"
 END
 CONTROLBAR:ConstructGondorStable2Upgrade
 "&Upgrade Stables to Level 2"
 END
 CONTROLBAR:ToolTipBuildGondorStableLevel2Upgrade
-"Level 2: +10% Faster Build Speed \n Allows training of Rohirrim"
+"Level 2: +50% Faster Build Speed \n Allows training of Rohirrim"
 END
 CONTROLBAR:ConstructGondorStableLevel3Upgrade
 "&Upgrade Stables to Level 3"
 END
 CONTROLBAR:ToolTipBuildGondorStableLevel3Upgrade
-"Level 3: +25% Faster Build Speed"
+"Level 3: +100% Faster Build Speed"
 END
 CONTROLBAR:ConstructGondorWorkshop2Upgrade
 "&Upgrade Siege Works to Level 2"
 END
 CONTROLBAR:ToolTipBuildGondorWorkshopLevel2Upgrade
-"Level 2: +10% Faster Build Speed \n Allows research of the Fire Stones upgrade"
+"Level 2: +50% Faster Build Speed \n Allows research of the Fire Stones upgrade"
 END
 CONTROLBAR:ConstructGondorWorkshopLevel3Upgrade
 "&Upgrade Siege Works to Level 3"
 END
 CONTROLBAR:ToolTipBuildGondorWorkshopLevel3Upgrade
-"Level 3: +25% Faster Build Speed"
+"Level 3: +100% Faster Build Speed"
 END
 
 ////////////////////////////CONTROLBAR:ToolTipGondorBuildWatchTower
@@ -15599,7 +15599,7 @@ OBJECT:GoblinFissure
 "Fissure"
 END
 OBJECT:GoblinFissureDescription
-"Level 2: +10% Faster Build Speed \n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed \n Level 3: +100% Faster Build Speed"
 END
 OBJECT:GoblinArcher
 "Goblin Archers"
@@ -15644,7 +15644,7 @@ CONTROLBAR:ConstructWildCaveLevel2Upgrade
 END
 
 CONTROLBAR:ToolTipBuildWildCaveLevel2Upgrade
-"Level 2: +10% Faster Build Speed"
+"Level 2: +50% Faster Build Speed"
 END
 
 CONTROLBAR:ConstructWildCaveLevel3Upgrade
@@ -15652,7 +15652,7 @@ CONTROLBAR:ConstructWildCaveLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipBuildWildCaveLevel3Upgrade
-"Level 3: +25% Faster Build Speed, adds defensive Arrow Tower"
+"Level 3: +100% Faster Build Speed, adds defensive Arrow Tower"
 END
 
 CONTROLBAR:UpgradeWildFissureLevel2
@@ -15664,7 +15664,7 @@ CONTROLBAR:UpgradeWildFissureLevel3
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade
-"Level 3: +25% Faster Build Speed \n Allows training of Mountain Giants"
+"Level 3: +100% Faster Build Speed \n Allows training of Mountain Giants"
 END
 
 CONTROLBAR:ConstructWildSpiderPitLevel2Upgrade
@@ -15672,7 +15672,7 @@ CONTROLBAR:ConstructWildSpiderPitLevel2Upgrade
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderPitLevel2Upgrade
-"Level 2: +10% Faster Build Speed \n Allows training of Goblin Spider Riders"
+"Level 2: +50% Faster Build Speed \n Allows training of Goblin Spider Riders"
 END
 
 CONTROLBAR:ConstructWildSpiderPitLevel3Upgrade
@@ -15680,7 +15680,7 @@ CONTROLBAR:ConstructWildSpiderPitLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderPitLevel3Upgrade
-"Level 3: +25% Faster Build Speed" 
+"Level 3: +100% Faster Build Speed" 
 END
 // "\n Allows research of Venom Sacs"
 CONTROLBAR:ConstructWildTreasureTroveLevel2Upgrade
@@ -23124,11 +23124,11 @@ OBJECT:RohanWellDescription
 END
 
 OBJECT:RohanArcheryRangeDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:RohanStablesDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:RohanStatueDescription
@@ -23156,11 +23156,11 @@ OBJECT:ElvenGreenPasture
 END
 
 OBJECT:ElvenGreenPastureDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:ElvenBarracksDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:ElvenOrchardDescription
@@ -23168,15 +23168,15 @@ OBJECT:ElvenOrchardDescription
 END
 
 OBJECT:DwarvenBarracksDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:DwarvenArcheryRangeDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:DwarvenForgeWorksDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:DwarvenHearthDescription
@@ -23196,19 +23196,19 @@ OBJECT:GondorFarmDescription
 END
 
 OBJECT:GondorBarracksDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:GondorArcheryRangeDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:GondorStablesDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:GondorWorkshopDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:GondorBlacksmithDescription
@@ -23236,23 +23236,23 @@ OBJECT:GondorBattleTowerDescription
 END
 
 OBJECT:MordorOrcPitDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:MordorTrollCageDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:MordorGreatSiegeWorksDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:MordorHaradrimPalaceDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:MordorMumakilPenDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:MordorSlaughterHouseDescription
@@ -23268,15 +23268,15 @@ OBJECT:LumberMillDescription
 END
 
 OBJECT:IsengardUrukPitDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:IsengardSiegeWorksDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:IsengardWargPitDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:IsengardArmoryDescription
@@ -23284,7 +23284,7 @@ OBJECT:IsengardArmoryDescription
 END
 
 OBJECT:GoblinCaveDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed\n Level 3: +100% Faster Build Speed"
 END
 
 APT:BirthDateTitle
@@ -26631,7 +26631,7 @@ CONTROLBAR:UpgradeDwarvenBarracksLevel2
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel2
-"+10% Faster Build Speed"
+"+50% Faster Build Speed"
 END
 
 CONTROLBAR:UpgradeDwarvenBarracksLevel3
@@ -26639,7 +26639,7 @@ CONTROLBAR:UpgradeDwarvenBarracksLevel3
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3
-"+10% Faster Build Speed \n Adds Defensive Axe Tower"
+"+100% Faster Build Speed \n Adds Defensive Axe Tower"
 END
 
 CONTROLBAR:ConstructDwarvenMenOfDale
@@ -26835,7 +26835,7 @@ OBJECT:WildSpiderPit
 END
 
 OBJECT:WildSpiderPitDescription
-"Level 2: +10% Faster Build Speed \n Level 3: +25% Faster Build Speed"
+"Level 2: +50% Faster Build Speed \n Level 3: +100% Faster Build Speed"
 END
 
 OBJECT:WildSentryTower
@@ -27103,7 +27103,7 @@ CONTROLBAR:ConstructElvenGreenPastureLevel2Upgrade
 END
 
 CONTROLBAR:ToolTipBuildElvenGreenPastureLevel2Upgrade
-"+10% Faster Build Speed"
+"+50% Faster Build Speed"
 END
 
 CONTROLBAR:ConstructElvenGreenPastureLevel3Upgrade
@@ -27111,7 +27111,7 @@ CONTROLBAR:ConstructElvenGreenPastureLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipBuildElvenGreenPastureLevel3Upgrade
-"+25% Faster Build Speed \n Adds defensive arrow tower"
+"+100% Faster Build Speed \n Adds defensive arrow tower"
 END
 
 CONTROLBAR:ConstructElvenStatue
@@ -31007,59 +31007,59 @@ CONTROLBAR:TooltipSummonWildMenAllies
 End
 
 CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel2
-"Allows training of the Uruk Berserker \n +10% Faster Build Speed"
+"Allows training of the Uruk Berserker \n +50% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel3
-"+25% Faster Build Speed"
+"+100% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeIsengardWargPitLevel2
-"+10% Faster Build Speed"
+"+50% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeIsengardWargPitLevel3
-"+25% Faster Build Speed"
+"+100% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeMordorHaradrimPalaceLevel2
-"Allows training of Haradrim Archers \n +10% Faster Build Speed"
+"Allows training of Haradrim Archers \n +50% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeMordorHaradrimPalaceLevel3
-"+25% Faster Build Speed"
+"+100% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeMordorMumakilPenLevel2
-"+10% Faster Build Speed"
+"Allows research of the Fire Arrows upgrade \n +50% Faster Build Speed""
 End
 
 CONTROLBAR:TooltipUpgradeMordorOrcPitLevel2
-"Allows research of the Banner Carrier upgrade \n +10% Faster Build Speed"
+"Allows research of the Banner Carrier upgrade \n +50% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeMordorOrcPitLevel3
-"+25% Faster Build Speed"
+"+100% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel2
-"Allows construction of the Catapult \n +10% Faster Build Speed"
+"Allows construction of the Catapult \n +50% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel3
-"+25% Faster Build Speed"
+"+100% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeMordorTavernLevel3
-"Allows research of the Fire Arrows upgrade \n +25% Faster Build Speed"
+"Allows research of the Fire Arrows upgrade \n +100% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeMordorTrollCageLevel2
-"Allows training of the Drummer Troll \n +10% Faster Build Speed"
+"Allows training of the Drummer Troll \n +50% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeMordorTrollCageLevel3
-"Allows training of the Attack Troll \n +25% Faster Build Speed"
+"Allows training of the Attack Troll \n +100% Faster Build Speed"
 End
 
 CONTROLBAR:TrainAllies
@@ -45879,11 +45879,11 @@ TOOLTIP:LackGondorFireArrowsTechnology
 END
 
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel2Upgrade
-"Level 2: +10% Faster Build Speed \n Allows training of Ithilien Rangers"
+"Level 2: +50% Faster Build Speed \n Allows training of Ithilien Rangers"
 END
 
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel3Upgrade
-"Level 3: +25% Faster Build Speed \n Allows purchase of the Fire Arrow Upgrade"
+"Level 3: +100% Faster Build Speed \n Allows purchase of the Fire Arrow Upgrade"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyGondorIronOre
@@ -46118,7 +46118,7 @@ CONTROLBAR:ToolTipBuildElvenBarracksLevel2
 END
 
 CONTROLBAR:ToolTipBuildElvenBarracksLevel3
-"+25% Faster Build Speed \n Adds defensive arrow tower"
+"+50% Faster Build Speed \n Adds defensive arrow tower"
 END
 
 OBJECT:ElvenHeroicStatueDescription
@@ -46261,7 +46261,7 @@ CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel2
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3
-"+25% Faster Build Speed \n Allows research of Mithril Mail, Forged Blades, and Flaming Shot upgrades \n Adds Defensive Axe Tower \n Forge Works gain armor: \n +20% against heros, pikemen and cavalry"
+"+50% Faster Build Speed \n Allows research of Mithril Mail, Forged Blades, and Flaming Shot upgrades \n Adds Defensive Axe Tower \n Forge Works gain armor: \n +20% against heros, pikemen and cavalry"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenForgeWorksLevel2Upgrade
@@ -46285,7 +46285,7 @@ CONTROLBAR:ToolTipBuildDwarvenArcheryRangeLevel2Upgrade
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArcheryRangeLevel3Upgrade
-"+25% Faster Build Speed \n Adds Defensive Axe Tower"
+"+50% Faster Build Speed \n Adds Defensive Axe Tower"
 END
 
 
@@ -46393,7 +46393,7 @@ CONTROLBAR:TooltipUpgradeIsengardSiegeWorksLevel2
 End
 
 CONTROLBAR:TooltipUpgradeIsengardSiegeWorksLevel3
-"Allows the construction of the Explosive Mine \n +25% Faster Build Speed"
+"Allows the construction of the Explosive Mine \n +100% Faster Build Speed"
 End
 
 //Powers
@@ -46549,7 +46549,7 @@ END
 //Structures
 
 CONTROLBAR:TooltipUpgradeMordorMumakilPenLevel3
-"+25% Faster Build Speed\nMumakils start on level 2"
+"+50% Faster Build Speed\nMumakils start on level 2"
 End
 
 CONTROLBAR:TooltipUpgradeMordorTavernLevel2
@@ -46629,7 +46629,7 @@ CONTROLBAR:ToolTipBuildWildMarauderHorde
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel2Upgrade
-"Level 2: +10% Faster Build Speed \n Allows training of Half Troll Marauders"
+"Level 2: +50% Faster Build Speed \n Allows training of Half Troll Marauders"
 END
 
 //------------------------------- Heroes
