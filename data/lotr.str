@@ -30387,7 +30387,7 @@ CONTROLBAR:ActivateFireShip
 End
 
 CONTROLBAR:BarbedArrows
-"Barbed Arrow Sho&t"
+"Barbed Arrows"
 End
 
 CONTROLBAR:BattleWagonUpgradeAxeThrowers
@@ -30742,7 +30742,7 @@ CONTROLBAR:ToolTipActivateFireShip
 End
 
 CONTROLBAR:ToolTipBarbedArrows
-"Requires Level 3\n Causes meta impact and increased damage \n Left click icon then left click on target"
+"Requires Level 3\n Causes meta impact and increased damage"
 End
 
 CONTROLBAR:ToolTipBattleWagonUpgradeAxeThrowers
@@ -45700,7 +45700,7 @@ CONTROLBAR:ToolTipBuildDwarvenAxeThrowerHorde
 "Strong vs. Archers and Pikemen\n Resistant to arrows" 
 END
 CONTROLBAR:ToolTipBuildDwarvenMenOfDaleHorde
-"Requires Level 2 Archery Range \n Strong vs. Infantry and Monsters"
+"Requires Level 2 Archery Range \n Strong vs. Infantry and Monsters \n Can fire Black Arrows"
 END
 CONTROLBAR:ToolTipBuildMordorHaradrimArcherHorde
 "Requires Level 2 Haradrim Palace \n Strong vs. Infantry and Monsters \n Can fire Barbed Arrows"
