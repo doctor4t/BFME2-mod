@@ -46114,7 +46114,7 @@ CONTROLBAR:ToolTipBuildElvenMirkwoodArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenBarracksLevel2
-"Allows training of Mirkwood Archers \n +10% Faster Build Speed"
+"Allows training of Mirkwood Archers \n +50% Faster Build Speed"
 END
 
 CONTROLBAR:ToolTipBuildElvenBarracksLevel3
@@ -46257,7 +46257,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressBanners
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel2
-"+10% Faster Build Speed \n Allows research of Siege Hammers upgrade"
+"+50% Faster Build Speed \n Allows research of Siege Hammers upgrade"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3
@@ -46281,7 +46281,7 @@ OBJECT:DwarvenHeroicStatueDescription
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArcheryRangeLevel2Upgrade
-"+10% Faster Build Speed \n Allows training of the Men of Dale"
+"+50% Faster Build Speed \n Allows training of the Men of Dale"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArcheryRangeLevel3Upgrade
@@ -46389,7 +46389,7 @@ CONTROLBAR:ToolTipBuildIsengardExplosiveMine
 END
 
 CONTROLBAR:TooltipUpgradeIsengardSiegeWorksLevel2
-"Allows the construction of Siege Ballistas \n +10% Faster Build Speed"
+"Allows the construction of Siege Ballistas \n +50% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeIsengardSiegeWorksLevel3
@@ -46553,7 +46553,7 @@ CONTROLBAR:TooltipUpgradeMordorMumakilPenLevel3
 End
 
 CONTROLBAR:TooltipUpgradeMordorTavernLevel2
-"Allows research of the Heavy Armor \n and Forged Blades upgrades \n +10% Faster Build Speed"
+"Allows research of the Heavy Armor \n and Forged Blades upgrades \n +50% Faster Build Speed"
 End
 
 // Black Rider
