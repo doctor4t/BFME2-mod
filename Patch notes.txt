@@ -10,14 +10,15 @@
 - Ally summoning powers have increased prices
 - Elven fortresses can once again purchase the blessed mist upgrade
 - Dain stubborn pride is now properly shown as a passive power
-- Sauron and Galadriel now cost 15000 resources
+- Increased Sauron and Galadriel build costs from 10000 to 15000
 - Sauron and Galadriel can no longer summon Balrogs and Eagles
 - Galadriel now automatically heals when idle
 - Command points granted by statues, resource buildings, fortresses and captured buildings are now 4 times higher
-- Level 2 unit production buildings build units 50% faster
-- Level 3 unit production buildings build units 100% faster
+- Level 2 unit production buildings build units 25% faster
+- Level 3 unit production buildings build units 50% faster
 - Dwarves can no longer research and equip the fire arrows upgrade
 - Black and Barbed arrows are now passive abilities
+- Increased Men of Dale and Haradrim archers build costs from 450 to 600
 // TODO, add lang strings for call for allies
 // TODO, make walls more resistant?
 // TODO, make wild lairs harder (super large wandering radius, more ennemies...)
