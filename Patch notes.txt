@@ -20,5 +20,6 @@
 - Black and Barbed arrows are now passive abilities
 - Increased Men of Dale and Haradrim archers build costs from 450 to 600
 - Mordor siege towers are once again buildable
+- Black riders are no longer proper heroes and can be built from the great siege works for 800 resources
 // TODO, make walls more resistant?
 // TODO, make wild lairs harder (super large wandering radius, more ennemies...)

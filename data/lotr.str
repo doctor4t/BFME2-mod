@@ -31043,11 +31043,11 @@ CONTROLBAR:TooltipUpgradeMordorOrcPitLevel3
 End
 
 CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel2
-"Allows construction of the Catapult \n +25% Faster Build Speed"
+"Allows construction of the Catapult and Siege tower \n +25% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel3
-"+50% Faster Build Speed"
+"Allows construction of the Grond and Black riders \n +50% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeMordorTavernLevel3
