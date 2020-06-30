@@ -19,6 +19,6 @@
 - Dwarves can no longer research and equip the fire arrows upgrade
 - Black and Barbed arrows are now passive abilities
 - Increased Men of Dale and Haradrim archers build costs from 450 to 600
-// TODO, add lang strings for call for allies
+- Mordor siege towers are once again buildable
 // TODO, make walls more resistant?
 // TODO, make wild lairs harder (super large wandering radius, more ennemies...)
