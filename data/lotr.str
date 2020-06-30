@@ -46877,3 +46877,124 @@ END
 CONTROLBAR:LoneTowerArmorUpgradeIcon
 "Requires researching the upgrade at fortress. \n\n Significantly reduces the amount of damage taken."
 END
+
+
+CONTROLBAR:CallForGoblins
+"Call for Goblins"
+END
+
+CONTROLBAR:TooltipCallForGoblins
+"Summon Goblin builders and troops."
+END
+
+TOOLTIP:LackCallForGoblinsResearch
+"Contact Goblins from the fortress to be able to summon their builders and troops."
+END
+
+CONTROLBAR:PurchaseResearchCallForGoblins
+"Contact Goblins"
+END
+
+CONTROLBAR:ToolTipPurchaseResearchCallForGoblins
+"Request assistance to summon Goblin builders and troops."
+END
+
+CONTROLBAR:CallForMordor
+"Call for Mordor"
+END
+
+CONTROLBAR:TooltipCallForMordor
+"Summon Mordor builders and troops."
+END
+
+TOOLTIP:LackCallForMordorResearch
+"Contact Mordor from the fortress to be able to summon their builders and troops."
+END
+
+CONTROLBAR:PurchaseResearchCallForMordor
+"Contact Mordor"
+END
+
+CONTROLBAR:ToolTipPurchaseResearchCallForMordor
+"Request assistance to summon Mordor builders and troops."
+END
+
+CONTROLBAR:CallForIsengard
+"Call for Isengard"
+END
+
+CONTROLBAR:TooltipCallForIsengard
+"Summon Isengard builders and troops."
+END
+
+TOOLTIP:LackCallForIsengardResearch
+"Contact Isengard from the fortress to be able to summon their builders and troops."
+END
+
+CONTROLBAR:PurchaseResearchCallForIsengard
+"Contact Isengard"
+END
+
+CONTROLBAR:ToolTipPurchaseResearchCallForIsengard
+"Request assistance to summon Isengard builders and troops."
+END
+
+CONTROLBAR:CallForMen
+"Call for Men"
+END
+
+CONTROLBAR:TooltipCallForMen
+"Summon Men builders and troops."
+END
+
+TOOLTIP:LackCallForMenResearch
+"Contact Men from the fortress to be able to summon their builders and troops."
+END
+
+CONTROLBAR:PurchaseResearchCallForMen
+"Contact Men"
+END
+
+CONTROLBAR:ToolTipPurchaseResearchCallForMen
+"Request assistance to summon Men builders and troops."
+END
+
+CONTROLBAR:CallForElves
+"Call for Elves"
+END
+
+CONTROLBAR:TooltipCallForElves
+"Summon Elven builders and troops."
+END
+
+TOOLTIP:LackCallForElvesResearch
+"Contact Elves from the fortress to be able to summon their builders and troops."
+END
+
+CONTROLBAR:PurchaseResearchCallForElves
+"Contact Elves"
+END
+
+CONTROLBAR:ToolTipPurchaseResearchCallForElves
+"Request assistance to summon Elven builders and troops."
+END
+
+CONTROLBAR:CallForDwarves
+"Call for Dwarves"
+END
+
+CONTROLBAR:TooltipCallForDwarves
+"Summon Dwarven builders and troops."
+END
+
+TOOLTIP:LackCallForDwarvesResearch
+"Contact Dwarves from the fortress to be able to summon their builders and troops."
+END
+
+CONTROLBAR:PurchaseResearchCallForDwarves
+"Contact Dwarves"
+END
+
+CONTROLBAR:ToolTipPurchaseResearchCallForDwarves
+"Request assistance to summon Dwarven builders and troops."
+END
